@@ -1,0 +1,23 @@
+#Internal package file, do not edit.
+#Mon Mar 26 17:36:00 CST 2018
+2.base=F\:\\ProgramData\\Copy of spatialite-android-library\\Copyofspatialiteandroid\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\0
+0.path=lib/armeabi-v7a/libjsqlite.so
+2.baseType=DIRECTORY
+3.base=F\:\\ProgramData\\Copy of spatialite-android-library\\Copyofspatialiteandroid\\build\\intermediates\\assets\\debug
+2.set=NATIVE_RESOURCE
+1.path=lib/armeabi/libjsqlite.so
+4.base=F\:\\ProgramData\\Copy of spatialite-android-library\\Copyofspatialiteandroid\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+count=5
+2.path=lib/x86/libjsqlite.so
+4.set=DEX
+3.path=test-2.3.sqlite
+3.baseType=DIRECTORY
+1.set=NATIVE_RESOURCE
+4.path=classes.dex
+1.baseType=DIRECTORY
+0.base=F\:\\ProgramData\\Copy of spatialite-android-library\\Copyofspatialiteandroid\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\0
+0.baseType=DIRECTORY
+3.set=ASSET
+1.base=F\:\\ProgramData\\Copy of spatialite-android-library\\Copyofspatialiteandroid\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\0
+4.baseType=DIRECTORY
+0.set=NATIVE_RESOURCE

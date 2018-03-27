@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Copy of spatialite-android-library.iml" filepath="$PROJECT_DIR$/Copy of spatialite-android-library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Copyofspatialiteandroid/Copyofspatialiteandroid.iml" filepath="$PROJECT_DIR$/Copyofspatialiteandroid/Copyofspatialiteandroid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Copyofspatialiteandroidlibrary/Copyofspatialiteandroidlibrary.iml" filepath="$PROJECT_DIR$/Copyofspatialiteandroidlibrary/Copyofspatialiteandroidlibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myspatialite-android/myspatialite-android.iml" filepath="$PROJECT_DIR$/myspatialite-android/myspatialite-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myspatialite-android-library/myspatialite-android-library.iml" filepath="$PROJECT_DIR$/myspatialite-android-library/myspatialite-android-library.iml" />
+    </modules>
+  </component>
+</project>

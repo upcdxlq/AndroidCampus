@@ -1,0 +1,2 @@
+include ':Copyofspatialiteandroidlibrary', ':myspatialite-android-library', ':myspatialite-android'
+include ':Copyofspatialiteandroid'

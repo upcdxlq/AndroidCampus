@@ -1,0 +1,4 @@
+#Mon Mar 26 13:39:55 CST 2018
+base.0=F\:\\ProgramData\\Copy of spatialite-android\\Copyofspatialiteandroid\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
